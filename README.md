@@ -19,7 +19,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/dustinwloring1988/starter-template.git
+git clone https://github.com/bolt-starter-templates/starter-template.git
 ```
 
 2. Navigate to the project directory:
@@ -60,7 +60,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Dustin Loring**
-* GitHub: [@dustinwloring1988](https://github.com/dustinwloring1988)
+* GitHub: [@bolt-starter-templates](https://github.com/bolt-starter-templates)
 
 ## ⭐️ Show your support
 
